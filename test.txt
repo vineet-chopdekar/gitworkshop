@@ -1,3 +1,4 @@
 test text
-this should create conflict
-lets see....master
+added new features 
+lets see how this works
+
